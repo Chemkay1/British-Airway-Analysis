@@ -1,2 +1,2 @@
-# Salary-Analysis
-This work uses sql to analyze and Power BI to visualize data gotten from kaggle
+# BRITISH AIRWAY ANALYSIS
+This work uses Python to analyze and visualize datataset. The dataset was downloaded from kaggle
